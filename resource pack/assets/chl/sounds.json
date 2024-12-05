@@ -1,0 +1,290 @@
+{ 
+    "copper_horn.bass.great_sky_falling":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/great_sky_falling","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.old_hymn_resting":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/old_hymn_resting","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.pure_water_desire":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/pure_water_desire","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.mumble_fire_memory":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/mumble_fire_memory","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.dry_urge_anger":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/dry_urge_anger","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.clear_temper_journey":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/clear_temper_journey","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.fresh_nest_thought":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/fresh_nest_thought","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.secret_lake_tear":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/secret_lake_tear","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.fearless_river_gift":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/fearless_river_gift","stream":true} 
+                                 ]
+           },
+    "copper_horn.bass.sweet_moon_love":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/bass/sweet_moon_love","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.great_sky_falling":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/great_sky_falling","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.old_hymn_resting":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/old_hymn_resting","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.pure_water_desire":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/pure_water_desire","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.mumble_fire_memory":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/mumble_fire_memory","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.dry_urge_anger":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/dry_urge_anger","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.clear_temper_journey":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/clear_temper_journey","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.fresh_nest_thought":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/fresh_nest_thought","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.secret_lake_tear":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/secret_lake_tear","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.fearless_river_gift":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/fearless_river_gift","stream":true} 
+                                 ]
+           },
+    "copper_horn.harmony.sweet_moon_love":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/harmony/sweet_moon_love","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.great_sky_falling":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/great_sky_falling","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.old_hymn_resting":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/old_hymn_resting","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.pure_water_desire":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/pure_water_desire","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.mumble_fire_memory":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/mumble_fire_memory","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.dry_urge_anger":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/dry_urge_anger","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.clear_temper_journey":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/clear_temper_journey","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.fresh_nest_thought":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/fresh_nest_thought","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.secret_lake_tear":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/secret_lake_tear","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.fearless_river_gift":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/fearless_river_gift","stream":true} 
+                                 ]
+           },
+    "copper_horn.melody.sweet_moon_love":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.copper_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/copper_horn/melody/sweet_moon_love","stream":true} 
+                                 ]
+           },
+    "item.goat_horn.sound.8":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.goat_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/goat_horn/call8","stream":true} 
+                                 ]
+           },
+    "item.goat_horn.sound.9":
+           {
+                 "replace": true,
+                 "subtitle": "subtitles.item.goat_horn.play",
+                 "sounds":
+                                 [
+                                     {"name":"chl:item/goat_horn/call9","stream":true} 
+                                 ]
+           }
+}

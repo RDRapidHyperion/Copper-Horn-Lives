@@ -1,0 +1,12 @@
+{
+   "description":
+   {
+      "translate":"instrument.chl.fly_goat_horn"
+   },
+   "sound_event":
+   {
+      "sound_id":"chl:item.goat_horn.sound.8"
+   },
+   "use_duration": 7,
+   "range": 256
+}

@@ -1,0 +1,9 @@
+{
+   "description":"Invalid Copper Horn",
+   "sound_event":
+   {
+      "sound_id":""
+   },
+   "use_duration": 4,
+   "range": 256
+}

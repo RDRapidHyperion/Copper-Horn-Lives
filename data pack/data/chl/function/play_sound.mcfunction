@@ -1,0 +1,1 @@
+$playsound chl:copper_horn.$(pitch).$(chlTune) record @a ~ ~ ~ 128 1
