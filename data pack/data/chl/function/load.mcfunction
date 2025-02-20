@@ -4,7 +4,8 @@ execute unless data storage chl:data craftingOutput run data merge storage chl:d
 
 #Check for old Copper Horn Lives
 execute store success storage chl:temp checkOldVersion byte 1 run scoreboard objectives add chl.angle dummy
-execute if data storage chl:temp {checkOldVersion:0b} run tellraw @a ["",{"text":"WARNING!","bold":true,"color":"red"},{"text":"\nYou previously used the old version of Copper Horn Lives. The new data pack is incompatible with this and old copper horns will not function.","color":"red"}]
+execute if data storage chl:temp {checkOldVersion:0b} run tellraw @a [{text:"WARNING!",bold:true,color:"red"}]
+execute if data storage chl:temp {checkOldVersion:0b} run tellraw @a [{text:"You previously used the old version of Copper Horn Lives. The new data pack is incompatible with this and old copper horns will not function.",color:"red"}]
 data remove storage chl:temp checkOldVersion
 scoreboard objectives remove chl.angle
 

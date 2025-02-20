@@ -1,0 +1,15 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:item_name": {
+      "translate": "item.chl.copper_horn"
+    },
+    "minecraft:instrument": "chl:copper_horn",
+    "minecraft:item_model": "chl:copper_horn",
+    "minecraft:tooltip_display": {
+      "hidden_components": [
+        "minecraft:instrument"
+      ]
+    }
+  }
+}

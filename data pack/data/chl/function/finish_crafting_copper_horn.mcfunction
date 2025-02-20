@@ -1,2 +1,2 @@
 execute if entity @s[type=!minecraft:item] run return fail
-$data merge entity @s {Item:{components:{"minecraft:lore":['{"color":"gray","italic":false,"translate":"item.chl.copper_horn.$(output)"}'],"minecraft:custom_data":{chlTune:"$(output)"}}}}
+$data merge entity @s {Item:{components:{"minecraft:lore":[{color:"gray",italic:false,translate:"item.chl.copper_horn.$(output)"}],"minecraft:custom_data":{chlTune:"$(output)"}}}}

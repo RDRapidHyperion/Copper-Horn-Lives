@@ -1,7 +1,7 @@
 # Check for fail conditions
 execute if entity @s[type=!minecraft:item] run return fail
-execute if data entity @s {Item:{components:{"minecraft:custom_data":{isCopperHorn:1b}}}} run tag @s add chl.uncraftable
-execute if data entity @s {Item:{components:{"minecraft:custom_data":{isCopperHorn:1b}}}} run return fail
+execute if items entity @s container.0 minecraft:goat_horn[minecraft:instrument="chl:copper_horn"] run tag @s add chl.uncraftable
+execute if items entity @s container.0 minecraft:goat_horn[minecraft:instrument="chl:copper_horn"] run return fail
 execute unless entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:copper_ingot",count:3}}] run return fail
 execute if entity @s[tag=chl.uncraftable] run return fail
 

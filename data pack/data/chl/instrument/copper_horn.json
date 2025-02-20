@@ -2,7 +2,7 @@
    "description":"Invalid Copper Horn",
    "sound_event":
    {
-      "sound_id":""
+      "sound_id":"minecraft:intentionally_empty"
    },
    "use_duration": 4,
    "range": 256
