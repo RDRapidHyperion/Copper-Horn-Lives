@@ -11,9 +11,15 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_data": {chlTune:"great_sky_falling"},
+                "minecraft:custom_data": {
+                  "chlTune": "great_sky_falling"
+                },
                 "minecraft:lore": [
-                  {translate:"item.chl.copper_horn.great_sky_falling",italic:false,color:"gray"}
+                  {
+                    "translate": "item.chl.copper_horn.great_sky_falling",
+                    "color": "gray",
+                    "italic": false
+                  }
                 ]
               }
             }
@@ -26,9 +32,15 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_data": {chlTune:"old_hymn_resting"},
+                "minecraft:custom_data": {
+                  "chlTune": "old_hymn_resting"
+                },
                 "minecraft:lore": [
-                  {translate:"item.chl.copper_horn.great_sky_falling",italic:false,color:"gray"}
+                  {
+                    "translate": "item.chl.copper_horn.old_hymn_resting",
+                    "color": "gray",
+                    "italic": false
+                  }
                 ]
               }
             }
@@ -41,9 +53,15 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_data": {chlTune:"pure_water_desire"},
+                "minecraft:custom_data": {
+                  "chlTune": "pure_water_desire"
+                },
                 "minecraft:lore": [
-                  {translate:"item.chl.copper_horn.pure_water_desire",italic:false,color:"gray"}
+                  {
+                    "translate": "item.chl.copper_horn.pure_water_desire",
+                    "color": "gray",
+                    "italic": false
+                  }
                 ]
               }
             }
@@ -56,9 +74,15 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_data": {chlTune:"mumble_fire_memory"},
+                "minecraft:custom_data": {
+                  "chlTune": "mumble_fire_memory"
+                },
                 "minecraft:lore": [
-                  {translate:"item.chl.copper_horn.mumble_fire_memory",italic:false,color:"gray"}
+                  {
+                    "translate": "item.chl.copper_horn.mumble_fire_memory",
+                    "color": "gray",
+                    "italic": false
+                  }
                 ]
               }
             }
@@ -71,9 +95,15 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_data": {chlTune:"fearless_river_gift"},
+                "minecraft:custom_data": {
+                  "chlTune": "fearless_river_gift"
+                },
                 "minecraft:lore": [
-                  {translate:"item.chl.copper_horn.fearless_river_gift",italic:false,color:"gray"}
+                  {
+                    "translate": "item.chl.copper_horn.fearless_river_gift",
+                    "color": "gray",
+                    "italic": false
+                  }
                 ]
               }
             }
@@ -85,9 +115,15 @@
           "function": "minecraft:set_components",
           "components": {
             "minecraft:instrument": "chl:copper_horn",
-            "minecraft:tooltip_display": {hidden_components:["minecraft:instrument"]},
-            "minecraft:item_name": {translate:"item.chl.copper_horn"},
-            "minecraft:item_model": "chl:copper_horn"
+            "minecraft:item_name": {
+              "translate": "item.chl.copper_horn"
+            },
+            "minecraft:item_model": "chl:copper_horn",
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:instrument"
+              ]
+            }
           }
         }
       ]
